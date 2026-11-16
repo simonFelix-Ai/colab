@@ -1,0 +1,3 @@
+integrated_multimodal_description: [Shot 1] A single continuous cinematic shot. A red fox walks slowly through a snowy pine forest at dawn. The camera tracks gently alongside the fox at eye level. Soft golden sunlight filters through the trees. The fox pauses, lifts its head, and looks toward the camera. Realistic fur, natural motion, stable anatomy, no cuts.
+overall_soundscape: Soft footsteps crunching in fresh snow, a light breeze through pine branches, distant birds. No speech.
+non_diegetic_music: None.

@@ -1,0 +1,13 @@
+{
+  "workflow": "fl2va",
+  "prompt_file": "prompts/fox.txt",
+  "image": "inputs/first.png",
+  "height": 544,
+  "width": 960,
+  "num_frames": 124,
+  "num_inference_steps": 9,
+  "seed": 42,
+  "memory_mode": "auto_offload",
+  "memory_reserve_gb": 14,
+  "output_name": "image_to_video"
+}

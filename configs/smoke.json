@@ -1,0 +1,12 @@
+{
+  "workflow": "t2va",
+  "prompt_file": "prompts/fox.txt",
+  "height": 544,
+  "width": 960,
+  "num_frames": 124,
+  "num_inference_steps": 9,
+  "seed": 42,
+  "memory_mode": "staged",
+  "memory_reserve_gb": 14,
+  "output_name": "fox_smoke"
+}

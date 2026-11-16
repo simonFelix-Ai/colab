@@ -1,0 +1,15 @@
+.research/
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+*.token
+models/
+cache/
+wheelhouse/
+outputs/
+*.mp4
+*.safetensors
+*.zip
+

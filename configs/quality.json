@@ -1,0 +1,12 @@
+{
+  "workflow": "t2va",
+  "prompt_file": "prompts/fox.txt",
+  "height": 768,
+  "width": 1344,
+  "num_frames": 124,
+  "num_inference_steps": 51,
+  "seed": 42,
+  "memory_mode": "staged",
+  "memory_reserve_gb": 18,
+  "output_name": "fox_768p"
+}
